@@ -46,6 +46,13 @@ Whether you're exploring new cuisines or hunting for the perfect dining experien
     Returns detailed recommendations, including names, descriptions, addresses, and ratings of the matched places.
 
 
+## 📸 **Screenshots & Demo**
+
+### 🖼️ **Sample Output Screenshot**  
+![Sample Output](screenshots/Screenshot_20250111_094419_Gallery.jpg)  
+![Sample Output](screenshots/Screenshot_20250111_094800_Gallery.jpg)  
+
+
 ## 🛠️ Installation
 1. Clone this repository:
 ```
