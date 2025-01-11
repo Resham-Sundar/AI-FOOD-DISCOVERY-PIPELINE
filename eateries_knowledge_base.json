@@ -1,0 +1,490 @@
+[
+    {
+        "name": "Truffles",
+        "description": "Truffles is a popular family restaurant located in central Koramangala, Bangalore. Known for its mean burgers and delicious steak, it has earned a reputation as one of the best restaurants in the area. Despite being a fast-food joint, it boasts an extensive multi-cuisine menu that caters to various tastes. This budget-friendly cafe is often packed with customers due to its 30 varieties of burgers and overall delightful dining experience.",
+        "address": "Ground Floor, A Wing, Apex Building, 93/A, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Karavalli",
+        "description": "Karavalli, situated at Vivanta Bengaluru Residency Road, is a refined restaurant that showcases regional dishes from the southwest coast of India. The menu features a variety of classic dishes such as fiery crab milagu fry, tiger prawns roast, and Alleppey meen curry. The focus is on authentic flavors and cooking techniques from Hindu, Muslim, and Christian coastal communities. The restaurant's architecture is inspired by traditional Mangalorean bungalows surrounded by tamarind trees.",
+        "address": "Vivanta, 66, Residency Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "MTR",
+        "description": "Simple restaurant serving classic tiffin dishes, such as rava idli, masala dosa & chandrahara.",
+        "address": "14, Lal Bagh Main Rd, Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Vidyarthi Bhavan",
+        "description": "Vidyarthi Bhavan is a legendary restaurant located in the bustling Basavangudi area, known for its enduring tradition of serving up delectable vegetarian South Indian dishes. The easygoing surroundings make it a popular dining spot for people of all ages, with its iconic presence for over seventy-five years. The menu features savory rice bowls with traditional sambar and vegetarian curries, along with specialties like the famous Benne Masala Dosa served with creamy Coconut Chutney and Sambar.",
+        "address": "32, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "The Only Place",
+        "description": "Straightforward mainstay serving American classics such as burgers, steaks, sandwiches & apple pie.",
+        "address": "005, Raheja Chambers, 12, Museum Rd, near Post Office, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 43.735319,
+            "longitude": 4.204441,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "The Fatty Bao",
+        "description": "The Fatty Bao is a vibrant and lively Pan-Asian restaurant and cocktail bar with a unique bohemian style. It offers an array of delectable Pan-Asian dishes, including chicken dim sum, chashu ramen, asparagus tempura cream cheese sesame, pulled pork bao, and Mago Mago tea.",
+        "address": "Third Floor, 610, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Brahmins' Coffee Bar",
+        "description": "Brahmins' Coffee Bar is a beloved spot in Bengaluru, known for its simple yet delicious South Indian breakfast fare. Founded by one of the Maiya brothers of MTR fame, this cafe has gained a stellar reputation for its limited but delightful menu. Despite its lack of seating, locals flock here for budget-friendly and flavorful dishes like soft idlis and crispy vadas served with legendary chutney.",
+        "address": "Pushp Kiran, 19, Rangarao Rd, near Shankar Mutt Road, Shankarapura, Bengaluru, Karnataka 560004, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Nagarjuna Restaurant - Residency Road",
+        "description": "Southern Indian/Andhra cuisine served in a modern dining room with subdued lighting & refined decor.",
+        "address": "XJF5+7MC, Residency Rd, near galaxi theater, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560027, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Veena Stores",
+        "description": "Idli, vada & other South Indian eats, plus coffee, doled out of  snug, humble surrounds.",
+        "address": "183, Margosa Rd, Malleshwaram, Bengaluru, Karnataka 560003, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Grasshopper",
+        "description": "Grasshopper, located off Bannerghatta Road, is a serene and romantic dining spot run by fashion designer duo Sonali Sattar and Himanshi Dimri. The restaurant offers a seasonal European tasting menu in a lush garden setting with live music. With just five tables, the staff takes care to cater to guests' preferences and dietary restrictions. This peaceful oasis provides an ideal setting for an unhurried, relaxing meal away from the hustle and bustle of urban life.",
+        "address": "45, Bannerghatta Rd, near Meenakshi Temple, Kalena Agrahara, Bengaluru, Kothnur, Karnataka 560076, India",
+        "metadata": {
+            "latitude": 12.864523,
+            "longitude": 77.588624,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Taaza Thindi",
+        "description": "Taaza Thindi is a popular spot in the city known for its delicious South Indian snacks served at budget-friendly prices. Despite being always busy, the place is praised for its efficient service. Located in Jayanagar, it's one of many local favorites in the area, offering fresh and hot snacks that keep customers coming back for more.",
+        "address": "1004, 26th Main Rd, 4th T Block East, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.6"
+        }
+    },
+    {
+        "name": "Barbeque Nation",
+        "description": "Tableside cooking & buffet specials are prepared at this popular national chain barbeque venue.",
+        "address": "4005, 100 Feet Rd, HAL 2nd Stage, Stage 2, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.972928,
+            "longitude": 77.641673,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Shiro",
+        "description": "Shiro is a lavish restaurant in Bengaluru, featuring Japanese, Balinese, and Chinese cuisine with Buddha-inspired decor and relief carvings. The restaurant offers an ultra-spacious rooftop setting adorned with gigantic Buddha sculptures. Known for its 80s pop loop music, hip crowd, and amazing fig mojitos, Shiro is a popular spot in the city.",
+        "address": "3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Koshy's",
+        "description": "Koshy's is an Indian coffee house with a nostalgic ambiance reminiscent of a classic film noir bar. Originally established as the Parade Cafe in 1952, it was frequented by politicians, journalists, professors, and lawyers who gathered over snacks, coffee, tea, and dinner. Over time, it has become a legendary spot where influential decisions were rumored to have been made.",
+        "address": "39, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "3.9"
+        }
+    },
+    {
+        "name": "Rim Naam",
+        "description": "Rim Naam is a stunning Thai restaurant located within the luxurious five-star hotel, The Oberoi. Its name, meaning \"by the water,\" perfectly captures its setting by a serene pond surrounded by lush gardens. The restaurant offers an elegant dining experience with classic grandeur, impeccable service, and a menu filled with authentic Thai dishes and fresh seafood. Guests can enjoy alfresco seating on a floating wooden structure while being serenaded by soft classical music.",
+        "address": "M G, The Oberoi Bengaluru, 37-39, Mahatma Gandhi Road, Road, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Ebony",
+        "description": "This luxe, rooftop lounge restaurant serves dishes from across India and South Asia with city views.",
+        "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.97576209949413,
+            "longitude": 77.60510514232764,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Toast & Tonic",
+        "description": "Casual bar serving international gastropub cuisine and mixing classic cocktails.",
+        "address": "14/1, Wood St, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "metadata": {
+            "latitude": 12.97236,
+            "longitude": 77.610075,
+            "rating": "4.6"
+        }
+    },
+    {
+        "name": "Lucky Chan - Dim Sum and Sushi Parlour, Indiranagar",
+        "description": "This hip Japanese restaurant offers a sushi conveyor belt for diners to choose from for their meal. The restaurant also has four seating options, all of which offer a great view of the sushi rolling process. The food is delicious and the service is excellent. It can be difficult to get a table during peak lunch times, but it's definitely worth it!",
+        "address": "594, 12th Main Rd, 2nd Stage, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Toit Brewpub",
+        "description": "Brick-walled microbrewery offering naturally crafted beers, hearty pub grub & brewery tours.",
+        "address": "6/2, 100 Feet Rd, near Drops Total Spirites, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Spice Terrace",
+        "description": "Spice Terrace, located in the heart of Bengaluru at JW Marriott, offers a stylish and inviting dining experience. This North Indian restaurant boasts a poolside location with beautiful outdoor seating, making it an ideal spot to enjoy classic Indian dishes paired with craft beer from Bengaluru's first microbrewery.",
+        "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.972368983013622,
+            "longitude": 77.59495518650853,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Chutney Chang",
+        "description": "Chutney Chang is a vibrant dining spot in Bangalore known for its extensive buffet featuring a fusion of Chinese and Indian cuisine. With over twenty-five starters, a variety of vegetarian and non-vegetarian main courses, and an array of delectable desserts, the restaurant offers an affordable and competitive dining experience. The diverse spread of dishes tantalizes the taste buds with its tangy flavors, making it a popular choice for those seeking an eclectic culinary adventure.",
+        "address": "HM Eleganza, 31 & 31/1, Museum Rd, near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 51.22473,
+            "longitude": -0.06969,
+            "rating": "4.0"
+        }
+    },
+    {
+        "name": "Salt Mango Tree",
+        "description": "Traditional, home-style Keralite fare served on banana leaves in a simple, whitewashed ambiance.",
+        "address": "954, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.1"
+        }
+    },
+    {
+        "name": "Oota Bangalore",
+        "description": "Regional South Indian fare served in an elegant, wood-panelled setting with temple bell fixtures.",
+        "address": "7th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Khan Saheb Grills and Rolls",
+        "description": "Pared-down, tiny restaurant doling out typical grilled meats, biryani, burgers & a variety of rolls.",
+        "address": "Ground Floor, Sri Shiva Sai Complex, 7th Main Road, 13th Cross Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "3.9"
+        }
+    },
+    {
+        "name": "LUPA",
+        "description": "The lunch menu puts forward the idea of using locally sourced ingredients and looking at European cuisine in a more approachable fashion.",
+        "address": "Ground Floor, NO.86, SPENCER'S TOWERS, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Blue Ginger at Taj West End, Bengaluru",
+        "description": "Blue Ginger at Taj West End, Bengaluru is a top choice for couples looking to spend quality time together. The restaurant offers mouth-watering Vietnamese cuisine and an impressive selection of fine wines in a romantic setting. It lives up to the renowned reputation of the Taj group of hotels, making it a perfect spot for special date nights. With its charming ambiance and high-quality cuisine, Blue Ginger stands out as one of the best options for couples seeking a memorable evening in Bangalore.",
+        "address": "25, Race Course Rd, Racecourse, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.977953,
+            "longitude": 77.574809,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Central Tiffin Room",
+        "description": "Iconic breakfast spot serving signature benne dosas, bajji & coffee in a buzzy, informal atmosphere.",
+        "address": "7th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Arbor Brewing Company",
+        "description": "Arbor Brewing Company, also known as ABC, is a lively microbrewery offering American pub fare alongside a variety of craft beers and cocktails. Originating from Ann Arbor, Michigan, this brewery's Indian outpost in Bangalore is renowned for its India Pale Ale (IPA) varieties that boast generous hop quantities for both flavor and aroma.",
+        "address": "Allied Grand Plaza, 3rd, 8, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "metadata": {
+            "latitude": 44.617469,
+            "longitude": -70.251386,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Sattvam Restaurant",
+        "description": "Sattvam Restaurant in Bangalore offers a unique dining experience with its vegetarian buffet that follows Sattvic dietary principles. The cuisine is a blend of North and South Indian dishes, prepared without caffeine, mushrooms, onions, or garlic. Despite these restrictions, the food is flavorful and satisfying. The buffet spread includes a variety of dishes such as chaat, pasta, pizza, chole bhature, and dal makhani.",
+        "address": "35, Sankey Rd, opposite Shell Petrol Bunk, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Olive Beach",
+        "description": "Contemporary Mediterranean bistro with beachy, white-walled decor & stylish furnishings.",
+        "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "metadata": {
+            "latitude": 12.97236,
+            "longitude": 77.610075,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Kava, Fairfield by Marriott Bengaluru Rajajinagar",
+        "description": "Airy, upmarket eatery at the Marriott Hotel offering buffet-style dining, a bar & a breakfast menu.",
+        "address": "Hotel Fairfield by Marriott Rajajinagar, 59th C Cross 4th M Block, Dr Rajkumar Rd, Rajaji Nagar, Bengaluru, Karnataka 560010, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.0"
+        }
+    },
+    {
+        "name": "Phobidden Fruit Vietnamese Kitchen",
+        "description": "Situated in a quiet, breezy bylane of the largely residential milieu of Indiranagar, Phobidden Fruit opens up to a small, but well planned dining area.Known for Vietnamese cuisine.",
+        "address": "965, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.972928,
+            "longitude": 77.641673,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Alba",
+        "description": "Alba, named after an Italian city, is a luxurious fine-dining restaurant located in Bengaluru. The restaurant offers exquisite Italian cuisine and cocktails in a stunning setting at the JW Marriott Hotel. With interiors adorned with elegant Italian marble, Alba provides various seating options including alfresco and private seating for a semi-intimate dining experience. Chef Eliyaz curates a menu featuring classic wood-fired pizzas, pasta, salads, and delectable desserts using fresh seasonal ingredients.",
+        "address": "Jw Marriott Hotel, 24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.5"
+        }
+    },
+    {
+        "name": "Persian Terrace",
+        "description": "The Persian Terrace is a rooftop restaurant located in the Sheraton Grand Bangalore Hotel at Brigade Gateway, Rajajinagar, Malleshwaram. It offers a glamorous and romantic dining experience with chic Persian-inspired decor and Middle Eastern classics on the menu. The open-air terrace is adorned with Middle Eastern-style lanterns, candles, and tea lights to create a colorful Arabian night ambiance.",
+        "address": "4th Floor, 26/1, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Toscano",
+        "description": "Upmarket, dark-walled dining room for a choice of Italian dishes and an international wine menu.",
+        "address": "26/1, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560003, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "The Tao Terraces",
+        "description": "Funky music venue & restaurant serving up house & techno music with Asian style cuisine.",
+        "address": "Old Madras Rd, Halasuru, Yellappa Chetty Layout, Jogupalya, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.1"
+        }
+    },
+    {
+        "name": "Mangalore Pearl",
+        "description": "Beautiful, quaint place right opposite ulsoor lake. The interiors are gorgeous and give the perfect ambience. The service is really good and the staff is very sweet and attentive.  Fish curries are available in varying levels of spiciness, you can inform the staff based on preference. Tava fry and rava fry for any kinds of fish or prawn is so delicious. The curries are very delicious with red rice or white rice. Prawn sukkha was so amazing, goes really well with neer dosa. They have a good variety and quality of fish. Very fresh, very good food. Hearty meal for decent prices. Solkadi, kokum and buttermilk make for really good drinks as well. Highly recommended for a great seafood meal.Vaidehi V \u2014 Google reviewTo start off, this restaurant has shifted location and is now on Assaye Road, Ulsoor. The place is a bit small for my liking but it's more airy. The quality of food on offer like the Prawn Raw Mango Curry and Chicken Roce Curry were excellent. The service is decent and it's most definitely value for money. Check this place out.Varun V \u2014 Google reviewIt is a very good place to have seafood.The staff were friendly and patient.Due to the place being packed, we had to remind them of our food, but it wasn't too bad.The food was awesome, though for some food, the quantity may seem less for some items (though the price was less and we were ravenous, so we quickly finished everything).Would recommend this place for any seafood lover.Aneesh N \u2014 Google reviewAmazing sea food place. Was a chance find one day while hungry around Ulsoor and have been hooked onto the food. If you are a fish lover and love Mangalore dishes, a must try. Super clean, great taste and great pricing.Rajroop B \u2014 Google reviewMangalore Pearl.....the name suits it well.Fresh tasty fish....worth more than Pearls.Sit, Relax and enjoy.....The place is very cool. It's on the 2nd floor. There is a staircase to climb up and than you can take the lift to the 2nd floor. The ambience is very good. Very clean place. The washrooms are very clean.The attendants were very cooperative and helpful. We being Goans, we just loved all the preparations. The fish, prawns and crabs were very fresh and tasty.We ordered pork Chilly. The masala was just yummy not too spicy. We enjoyed it with sannas.  Must try.Later we tried chicken cutlets. They were nice and crispy and tasty too.We ordered kingfish rawa fry. It was nice and juicy, the masala was just nice and fried very well.We also ordered Pomfret (full) tava fry .....mouth watering....We ordered red rice (boiled rice ...in Goa). It was nice and well cooked not very hard or soft.The crab curry was very tasty too. There were about 6 pieces of crabs. The crabs were full of flesh.The prawns and rice dumpings were yummy too. Only we were so full that we could not finish  the rice dumpings.Later we had bread pudding and caramel pudding.We really had a very good time and enjoyed the food. Five of us. The bill was only Rs 2500/- @ Rs.500/- per head.Only  the fresh lime soda and the kokum juice were a little too sweet.  So next time you order tell them you want it less sweet.The owners are from Mangalore and the preparation was very authentic mangalorean style. Just loved it.If you want to have fresh fish, please do visit this restaurant.The best part is they have a different menu every day.Mondays they are closed.There is a valet parking service. But if you want you can drive behind this restaurant building and park on the road sideThe service is very quick too.Enjoy fresh fish in Bangalore on your holidays at a very reasonable price too and friendly atmosphere.Judas M \u2014 Google reviewHave been to this place multiple times for lunch and dinner, mostly crowded during lunch hour.Have tried their mutton pepper fry, squid roast, chicken roce curry, seer fish fry. Usually a wait time of 15 to 20 mins. Service is quick.A nice seafood restaurant at an affordable price.Odyssey \u2014 Google reviewIf you've ever properly munched fish in Mangalore, you wouldn't give this place 4 or 5 stars. I dined at Machali, Shetty\u2019s Kitchen, and Girimanja in Mangalore, and the taste here doesn't even match 25% of it. I ordered Anjal and Bangude, and the taste was utterly disappointing. Don't be misled by the name and reviews\u2014avoid this restaurant.Sanju R \u2014 Google reviewPros:Had delightful dining experience with good food at reasonable prices.Tried prawns, fish mango curry, crab, pork pepper, rice, and neer dosa. All the items were delicious, though personal preferences might vary.My favorites were the prawns, pork, and neer dosa.cons:the seating can fill up quickly, so you might have to wait about 15-20 minutes during busy times.Overall, Very satisfied with both the food and the service.Arjun R \u2014 Google reviewAwesome place to have some coastal food in Bangalore. Went there for lunch on a Saturday and had to wait for 15 minutes before getting a table. The service is super quick and the staff is always ready to help you with recommendations. The food was served very quickly and tasted amazing. I discovered Solkadi for the first time and I am going to look for it on every restaurant that I visit now. A must visit and very decently priced with great portions.Taniya \u2014 Google reviewIt is really tough to review a place that has good ratings and you feel that you have had better Mangalore food. This is my review and what i felt. Squid ghee roast i ve had better ones. Even the curry i dint feel like proper shetty style food. It was just average. Definitely you can try but i can give 4 ratings. There are better places in Bangalore. One thing i would appreciate is the price, very affordable. The tava fry was good apart from that the proper Mangalore masala i dint feel that. Appreciate the service . One last thing is that parking was troublePM M \u2014 Google reviewGreat Managalorean cuisine. Food wasn\u2019t super spicy or oily which was great. They have a decent number of dishes for Vegetarians as well.Mihir B \u2014 Google reviewWe visited The Mangalore Pearl with family and had a fantastic time. This was our first visit, recommended by friends, and it exceeded our expectations. If you're a seafood lover or want to experience authentic Tulunadu cuisine in Bengaluru, this restaurant is a must-visit.They are meticulous about the quality of their ingredients. The owner personally selects fresh seafood from the market every morning, ensuring the highest quality for their dishes. Consequently, the menu changes daily based on the availability of fresh seafood.We enjoyed prawns ghee roast, chicken lollipop, neer dosa, chicken sukka, pink perch tava fry, silver fish deep rava fry, boiled rice with silver fish curry, kokum solkadi, buttermilk, and caramel custard. Each dish had a unique flavor, with a perfect blend of spices, and we ended up reordering several times.Overall, an outstanding dining experience. Highly recommended!Subrahmanya N \u2014 Google reviewOne of the best seafood restaurants in Bangalore , taste is just amazing with meals, roti and fish items in the menu. Deserts is a must try as they have lot of options. Pricing is good for coastal food but it's worth it once you have a good fill. Fast service and they have beverages also which are good. Try gheeroast items,prawns fry and kor rotti also to get that authentic coastal food feelingThere might be waiting here and parking is a problem.Prajwal R \u2014 Google reviewMangalore Pearl Restaurant at Ulsoor provided an enjoyable dining experience that pleasantly surprised me. As a fan of Coorg-style cuisine, which shares similarities with Kerala but offers unique dishes, I was curious to explore their menu. Visiting around 3 PM, the restaurant was moderately crowded, but finding a side seat was easy.Perusing the menu, I initially felt a bit indecisive but settled on ordering Neer dosa and Tilapia fish fillet, opting for Pork Sarpotal to try something different from the typical Pork Pandi curry. I also ordered a refreshing kokum juice. When the dishes arrived, I was initially disappointed by the appearance of the Pork Sarpotal, reminiscent of a  chicken curry from my hostel days.However, my doubts vanished upon tasting. The finely sliced pork, combined with pork liver and a subtle sweetness, paired exceptionally well with the soft Neer dosa. The Tilapia fillet fry was another highlight, bursting with flavor.The ambiance of the restaurant was pleasant, with a neat and spacious layout, complemented by coastal seafood-themed decorations and cartoons. Considering the quality and quantity of the meal, the cost of around 600 rupees was reasonable.Overall, Mangalore Pearl Restaurant delivered a very good experience, especially for families who enjoy Mangalore-style and seafood cuisine. I would highly recommend it for a satisfying and authentic Mangalorean dining experience.In my second visit, pork pepper fry was utter flop. Where as Manthal fry was delicious.Arun B \u2014 Google reviewTop quality sea food with reasonable prices. Definitely finger licking good. It is crowded on weekends. Make sure to reach early as there might be a waiting time of 15-30 mins. 4 wheeler parking is an issue.Lawrence G \u2014 Google reviewHeaven for seafood lovers!!Good quality and tasty food at affordable price.For those hotels who claim that quality food comes with a price, Mangalore Pearl is the answer. You necessarily don\u2019t have to loot customers for offering tasty food.Filled my tummy and filled my heart as well !!Must try : Neer dosa and Chicken ghee roastVISHNU K \u2014 Google reviewMust visit when in Bangalore. The ghee roast prawns were superb \u2764\ufe0fBest was the raw mango fish curry and boiled ricePrakriti D \u2014 Google reviewVisit this place for an amazing sea food experience.Do try their chicken uruval.Fish tawa fry is also a must try.Car parking is a hassle.Pruthuvainya G \u2014 Google reviewWe tried many items here including chicken ghee roast, seer fish tawa fry, squid rava fry, neer dosa, and their signature drinks.Except squid rava fry every other items were disaster. I have no idea why this restaurant got this much rating.Lack of parking space, long waiting for seats, very slow service. It\u2019s not at all worthy.I know of some other restaurants in banglore which serves exceptionally good manglorean food. ( Anupams Coast2Coast is an example ).I\u2019ve travelled all the way from Electronic City to try their food based on the review. But I was wrong.Pranav R \u2014 Google reviewThe place has great service and the food is amazing. The drinks were good (especially solkadi). The prawns ghee roast and chicken uruwal tasted great.The deserts both the bread pudding and caramel pudding were similar but tasted fabulous. The seer fish curry was good.Arjun # \u2014 Google review",
+        "address": "2nd Floor, Skywalk Building, next to YMIA or BodyCraft, 5/1, Assaye Rd, Halasuru, Bengaluru, Karnataka 560042, India",
+        "metadata": {
+            "latitude": -37.786668,
+            "longitude": 145.287505,
+            "rating": "4.4"
+        }
+    },
+    {
+        "name": "Harima Japanese Restaurant",
+        "description": "Large windows & a shaded terrace provide a chic environment for a range of Japanese dishes.",
+        "address": "4th Floor, Devatha Plaza, 131, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Shivaji Military Hotel",
+        "description": "Bustling, basic establishment turning out meat-based biryani in palm-leaf cups (donne).",
+        "address": "718 1st C, Main, 45th Cross Rd, 8th Block, Jayanagar, Bengaluru, Karnataka 560082, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "3.9"
+        }
+    },
+    {
+        "name": "Mainland China",
+        "description": "Mainland China is a popular Chinese restaurant known for its delicious dishes and pleasant ambiance. The place offers a typical Chinese dining experience with a variety of flavorful options such as basil flavored dimsums, crispy vegetables with salt and pepper, chicken with assorted pepper, crackling spinach, soup, noodles, fried rice, fish & chicken items. The service is professional and prompt even during busy times.",
+        "address": "1st Floor, Primus, DMart, 28/2, Main Road, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.0"
+        }
+    },
+    {
+        "name": "The Pizza Bakery",
+        "description": "Wood-fired sourdough pizzas are the house specialty at this stylish monochrome restaurant.",
+        "address": "2985, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.3"
+        }
+    },
+    {
+        "name": "Wabi Sabi",
+        "description": "Polished restaurant in the Oberoi Hotel spotlighting elevated Chinese & Japanese provisions.",
+        "address": "The Oberoi Bengaluru, 37-39, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
+        "metadata": {
+            "latitude": 12.973690236792798,
+            "longitude": 77.61871372883618,
+            "rating": "4.7"
+        }
+    },
+    {
+        "name": "Taiki",
+        "description": "Contemporary destination offering Asian specialties, veggie options & mocktails.",
+        "address": "656, 100 Feet Rd, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "metadata": {
+            "latitude": 12.972928,
+            "longitude": 77.641673,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Sri Sairam's Chats & Juice Centre",
+        "description": "Best chats adda is Sri Sairams chats & Juice Center , now almost 22 years young catering and satisfying the taste buds of all age groups with their long list of 100 varieties of chats , juice and icecreams.",        "address": "245, 16th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Karnataka Bhel House",
+        "description": "Good place for snacks such as chaats. Well known for it Bhel and Masala puri. You can customize your snacks based on your spice levels and ingredients required.",
+        "address": "Door no 2, 3rd Cross, Bazaar St, beside jain college hostel, Kamalanagar, Chamrajpet, Bengaluru, Karnataka 560018, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.2"
+        }
+    },
+    {
+        "name": "Arirang Korean Restaurant",
+        "description": "Familiar Korean fare amid classic decor with low seating, cane chairs & traditional art.",
+        "address": "13 N.K Enclave Building, 4th Cross, Kammanahalli Main Rd, Chinnappa Layout, Bengaluru, Karnataka 560084, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "3.9"
+        }
+    },
+    {
+        "name": "Spicy Corner",
+        "description": "This is a really old place that is flocked by college kids and sells affordable and good Chinese street food. There are a lot of shops around where you can try other foods as well so drop by with your friends for a great mix of fast food and juice. You can get something to drink right beside.",        "address": "Jeevan Bima Nagar Main Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+        "metadata": {
+            "latitude": 12.970541,
+            "longitude": 77.604785,
+            "rating": "3.9"
+        }
+    },
+    {
+        "name": "Bengaluru Oota Company",
+        "description": "Informal venue open by reservation-only offering set menus with Gowda & Mangalorean dishes.",
+        "address": "5, Cambridge Cross Road, Halasuru, Cambridge Layout, Jogupalya, Bengaluru, Karnataka 560008, India",
+        "metadata": {
+            "latitude": 12.973425,
+            "longitude": 77.62989,
+            "rating": "4.6"
+        }
+    },
+    {
+        "name": "Chatar Patar",
+        "description": "Great place, Awesome ambience, quality of service is best, and  stuff and owner is very friendly.",
+        "address": "WHFC+CJR, Unnamed Road, Bengaluru, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070, India",
+        "metadata": {
+            "latitude": 12.97194,
+            "longitude": 77.59369,
+            "rating": "4.2"
+        }
+    }
+]
