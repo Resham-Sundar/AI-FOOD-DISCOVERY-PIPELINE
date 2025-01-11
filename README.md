@@ -1,7 +1,7 @@
 # 🌟 AI-Powered Food Discovery Pipeline 🍔🍕🍜
 Welcome to the AI-Powered Food Discovery Pipeline repository! 
 This project combines state-of-the-art Visual Language Models (VLMs) and vector database technology to redefine how we discover food and restaurants.🍽️✨
-__________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 
 ## 🌍 Overview
 This pipeline allows users to:
@@ -11,7 +11,6 @@ This pipeline allows users to:
 3. Retrieve and recommend similar restaurants or dishes from a curated knowledge base (currently optimized for Bangalore, with global scalability potential 🌏).
 
 Whether you're exploring new cuisines or hunting for the perfect dining experience, this AI-powered tool bridges the gap between visual discovery and actionable recommendations.
-
 ## ✨ Key Features
 1. 🖼️ Image-to-Insight Processing : 
     Utilizes BLIP-2 to extract meaningful captions from uploaded images, such as “wood-fired pizza” or “modern bistro vibes.”
