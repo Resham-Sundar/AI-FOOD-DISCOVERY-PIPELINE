@@ -57,7 +57,7 @@ Whether you're exploring new cuisines or hunting for the perfect dining experien
 1. Clone this repository:
 ```
 git clone https://github.com/your-username/ai-food-discovery-pipeline.git  
-cd ai-food-discovery-pipeline
+cd AI-FOOD-DISCOVERY-PIPELINE
 ```
 
 2. Install required dependencies:
